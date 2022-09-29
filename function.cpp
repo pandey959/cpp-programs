@@ -22,3 +22,10 @@ int main()
     r1.displayArea();
     return 0;
 }
+
+/*output:
+Enter Length and Breadth:
+4
+5
+The Area Of Rectangle Is:20
+*/
